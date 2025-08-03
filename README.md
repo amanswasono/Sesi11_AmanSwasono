@@ -1,6 +1,6 @@
 # 👋 Hallo !
 Terima kasih sudah mengunjungi repositori ini.  
-Repositori ini berisi tugas sesi 5 dari **Bootcamp QA Engineer: Basic Automation & Testing**.
+Repositori ini berisi tugas dari **Bootcamp QA Engineer: Basic Automation & Testing**.
 
 ---
 
