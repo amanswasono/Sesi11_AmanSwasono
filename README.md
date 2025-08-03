@@ -1,11 +1,11 @@
-## Hallo 👋! 
+## Hallo 👋!  
 Terima kasih telah mengunjungi repositori ini. Repositori ini berisi tugas sesi 5 dari bootcamp QA Engineer: Basic Automation & Testing.
 
 ---
 
 ## 📂 Struktur Tugas
 
-### 1. 🧪 Testing & Bug Management
+### 1. 🧪 Testing & Bug Management  
 Pengujian fungsional situs [SauceDemo](https://www.saucedemo.com/) meliputi:
 - Login  
 - Sorting Produk  
@@ -46,8 +46,28 @@ Berisi:
 
 ---
 
+### 4. 🔍 API Automation Advanced  
+Pengujian otomatis untuk endpoint API menggunakan Mocha, Node.js, dan reporter **Mochawesome**.
+
+📄 **Fitur**:
+- Menguji endpoint HTTP: `GET`, `POST`, `PUT`, `DELETE`  
+- Menggunakan assertion standar (`assert`) dari Node.js  
+- Struktur modular dengan `require()` (CommonJS)  
+- Laporan pengujian otomatis dalam format **HTML & JSON**  
+- Eksekusi tes mudah dengan perintah `npm test`
+
+📁 **Folder**: `Task_API_Automation/`  
+Berisi:
+- `test/apiTest.js` – Skenario pengujian API  
+- `utils/requestHelper.js` – Fungsi pembantu HTTP request  
+- `package.json` – Konfigurasi dependencies dan script  
+- `mochawesome-report/` – Folder hasil laporan setelah testing
+
+---
+
 ## ⚙️ Teknologi yang Digunakan
 - JavaScript (Node.js)  
+- Mocha & Mochawesome  
 - Visual Studio Code  
 - Git & GitHub  
 - Microsoft Office (untuk dokumentasi QA)
@@ -62,6 +82,4 @@ Repositori ini dilisensikan di bawah **MIT License** – bebas digunakan untuk k
 ## 🙋‍♂️ Kontributor
 **Aman Swasono**  
 Peserta Bootcamp QA Engineer  
-Email: [amanswasono150899@gmail.com] 
-
----
+Email: [amanswasono150899@gmail.com](mailto:amanswasono150899@gmail.com)
