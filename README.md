@@ -1,4 +1,4 @@
-# 👋 Hallo !
+# 👋 Hai, selamat datang di repositori ini!
 Terima kasih sudah mengunjungi repositori ini.  
 Repositori ini berisi tugas dari **Bootcamp QA Engineer: Basic Automation & Testing**.
 
