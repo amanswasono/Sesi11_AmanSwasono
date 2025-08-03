@@ -18,7 +18,7 @@ Pengujian fungsional situs [SauceDemo](https://www.saucedemo.com/) meliputi:
 - ✅ Bug Report (dilengkapi langkah reproduksi, hasil aktual, dan ekspektasi)
 
 **Folder:**  
-`Task_Testing_Bugs_Management/`
+`Task Testing Bugs & Management/`
 
 ---
 
