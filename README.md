@@ -65,8 +65,7 @@ Automasi pengujian endpoint API menggunakan Mocha, Node.js, dan reporter **Mocha
 `Task API Automation/`
 
 **Isi Folder:**  
-- `test/apiTest.js` – Script pengujian API  
-- `utils/requestHelper.js` – Fungsi bantu HTTP request  
+- `tests/` – Script pengujian API   
 - `package.json` – Konfigurasi dependensi dan script testing  
 - `mochawesome-report/` – Folder hasil laporan otomatis
 
