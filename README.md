@@ -18,7 +18,7 @@ Pengujian fungsional situs [SauceDemo](https://www.saucedemo.com/) meliputi:
 - ✅ Bug Report (dilengkapi langkah reproduksi, hasil aktual, dan ekspektasi)
 
 **Folder:**  
-`Task Testing Bugs & Management/`
+`Task Testing & Bugs Management/`
 
 ---
 
@@ -29,7 +29,7 @@ Latihan logika pemrograman dasar menggunakan JavaScript (Node.js).
 - Menampilkan pola segitiga siku-siku menggunakan perulangan
 
 **File:**  
-`Task_Programming_Fundamental/segitiga_looping.js`
+`Task Programming Fundamental/segitiga_looping.js`
 
 ---
 
@@ -42,7 +42,7 @@ Aplikasi kalkulator interaktif berbasis terminal dengan Node.js.
 - Pengulangan hingga pengguna memilih keluar
 
 **Folder:**  
-`Task_Programming_Advanced/kalkulator/`
+`Task Programming Advanced/kalkulator/`
 
 **Isi Folder:**  
 - `menu.js` – Tampilan menu interaktif  
@@ -62,7 +62,7 @@ Automasi pengujian endpoint API menggunakan Mocha, Node.js, dan reporter **Mocha
 - Jalankan pengujian dengan perintah sederhana: `npm test`
 
 **Folder:**  
-`Task_API_Automation/`
+`Task API Automation/`
 
 **Isi Folder:**  
 - `test/apiTest.js` – Script pengujian API  
