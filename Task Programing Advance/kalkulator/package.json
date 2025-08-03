@@ -1,0 +1,13 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "main": "menu.js",
+  "type": "module",
+  "scripts": {
+    "start": "node menu.js"
+  },
+  "keywords": ["kalkulator", "nodejs", "CLI"],
+  "author": "Aman swasono",
+  "license": "ISC",
+  "description": "A simple CLI calculator using Node.js"
+}

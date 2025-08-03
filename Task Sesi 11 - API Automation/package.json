@@ -1,0 +1,16 @@
+{
+  "name": "task-sesi-11---api-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.7.1",
+    "mochawesome": "^7.1.3"
+  }
+}
